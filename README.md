@@ -95,13 +95,14 @@ Financiamiento: $200.000 para compra de kits Arduino. Fondos ejecutados en su to
 - Talleres ACAP – UNIPE – 1 taller en 1 colegio, 30 estudiantes (Mayo 2026)
 
 #### 2025
-- Taller virtual – 11ma Semana Unipe Virtual – "Aceptación y apropiación del entorno AeIe"
+- [Relatos de Clase - 12 Semana UniPe Virtual - Inteligencia Artificial Generativa. Relato de una experiencia sobre lectura distante](https://www.youtube.com/watch?v=39_x1TRBLVk)
 - Talleres ACAP – UNIPE – 2 talleres en 5 colegios, 60 estudiantes
 
 #### 2024
+- [Taller virtual – 11 Semana Unipe Virtual – "Aceptación y apropiación del entorno AeIe"](https://www.youtube.com/watch?v=39_x1TRBLVk)
 - Taller – Semana de la Enseñanza de las Cs – FCEN-UBA – "¿Qué sabemos sobre IA y cómo integrarla al aula?" (con Echeveste)
 - Charla – Semana de las Cs de la Computación – FCEN-UBA – "Cazadores de mitos" (con Schinca)
-- Taller virtual – 10ma Semana Unipe Virtual – "Análisis crítico de Plataformas Educativas"
+- [Taller virtual – 10 Semana Unipe Virtual – "Análisis crítico de Plataformas Educativas"](https://www.youtube.com/watch?v=A_eyGpmELE4)
 - Taller online con referato – Pre-JADICC 2024 – "Análisis Crítico de Plataformas Educativas"
 - Taller internacional – Open Day GTIIT (China) – "Why do we feel that AI is intelligent?" (con Schinca)
 - Taller de Domótica – UNIPE – 2 talleres, 22 estudiantes, 8 horas
