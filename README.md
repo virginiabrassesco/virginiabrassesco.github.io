@@ -217,7 +217,7 @@ Director: Nicolás D'Ippolito
 ## 7. Desarrollo tecnológico
 
 - **2021** – Co-creadora de **Zamba**: plataforma educativa para programación por bloques → transición a lenguaje textual
-Software libre y accesible: [https://gelddago.github.io/zamba/zamba.html](https://gelddago.github.io/zamba/zamba.html)
+Software libre y accesible: [https://gdeldago.github.io/zamba/zamba.html](https://gdeldago.github.io/zamba/zamba.html)
 
 ---
 
