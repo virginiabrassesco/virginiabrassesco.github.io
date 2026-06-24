@@ -2,8 +2,8 @@
 **PhD Candidate · Profesora · Investigadora**
 
 📍 Buenos Aires, Argentina
-📧 vbrassesco@dc.uba.ar
-🔗 [github.com/vbrassesco](https://github.com/vbrassesco) · [linkedin.com/in/virginia-brassesco](https://linkedin.com/in/virginia-brassesco)
+📧 mbrassesco@dc.uba.ar
+🔗 [github.com/virginiabrassesco](https://github.com/virginiabrassesco) · [linkedin.com/in/virginia-brassesco](https://linkedin.com/in/virginia-brassesco)· [scholar.google.com/virginia-brassesco](https://scholar.google.com/citations?user=Hjo66SEAAAAJ)
 
 ---
 
@@ -31,7 +31,7 @@ Tareas: Armado completo, dictado, corrección
 |---------|-------|---------|
 | Oct 2025 – Feb 2026 | Adjunct Teacher | Introduction to CS with Python |
 | Oct 2024 – Feb 2025 | Adjunct Teacher | Introduction to CS with Python |
-| Oct 2023 – Feb 2024 | Adjunct Teacher | Introduction to CS with Python + Tutora |
+| Oct 2023 – Feb 2024 | Adjunct Teacher | Introduction to CS with Python |
 
 **Cuatrimestres dictados: 3**
 
@@ -45,7 +45,7 @@ Tareas: Armado completo, dictado, corrección
 | 4° bimestre 2022 | Docente asistente interina | UTDT | Sistemas de Información y Tecnología (posgrado) |
 | 2C2020 – 1C2021 | JTP interina | UNIPE | Programación 1 (armado completo) |
 | 2018 | Ayudante de Primera regular | FCEyN – UBA | Ingeniería de Software 2 |
-| 2C2015, 1C2016, 1C2017 | Docente Asistente interina | UNSAM | Especificación de Software / Laboratorio Construcción de Software 1 |
+| 2C2015, 1C2016, 1C2017 | Docente Asistente interina | UNGS | Especificación de Software / Laboratorio Construcción de Software 1 |
 
 **Cuatrimestres acumulados:** JTP UNacional: 7 | JTP UPrivada: 2.5 | Ayud. 1° UNacional: 7
 
