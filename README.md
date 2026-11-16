@@ -67,6 +67,7 @@ Tareas: Armado completo, dictado, corrección
 - Didáctica Especial y Práctica de la Enseñanza I
 
 **Cursos y seminarios:**
+- Curso COIL (Collaborative Online International Learning) – REDUCAR / UNIPE (2026, 20h)
 - Ciencia de Datos y Biología – UBA (2024)
 - Modelización Matemática en las Ciencias Exactas y Naturales – UNComahue (2024)
 - Neurociencias del aprendizaje – UnaHur (2019)
@@ -92,7 +93,9 @@ Financiamiento: $200.000 para compra de kits Arduino. Fondos ejecutados en su to
 ### Actividades de extensión
 
 #### 2026
-- Talleres ACAP – UNIPE – 1 taller en 1 colegio, 30 estudiantes (Mayo 2026)
+- Expositora – Semana Virtual UNIPE 2026 (Edición Invierno) – "Inteligencia Artificial Generativa en el Profesorado de Informática UNIPE" (Agosto 2026)
+- Expositora – Semana Virtual UNIPE 2026 (Edición Invierno) – "Introducción a la didáctica PRIMM para enseñanza de programación" (Agosto 2026)
+- Talleres ACAP – UNIPE – 1 taller en 1 colegio, 30 estudiantes (Mayo, Septiembre, Octubre 2026)
 
 #### 2025
 - [Relatos de Clase - 12 Semana UniPe Virtual - Inteligencia Artificial Generativa. Relato de una experiencia sobre lectura distante](https://www.youtube.com/watch?v=39_x1TRBLVk)
@@ -136,17 +139,25 @@ Financiamiento: $200.000 para compra de kits Arduino. Fondos ejecutados en su to
 ### Publicaciones con arbitraje
 
 **Revistas:**
-- **2026** – Echeveste y Brassesco. "Pensar críticamente la inteligencia artificial en la escuela" – EDUTEC (aceptado)
+- **2026** – Brassesco y Schapachnik. "Operational definitions of abstractions in psychologist, teachers and computer scientists: an empirical study" – IEEE Transactions on Education *(en revisión)*
+- **2026** – Brassesco y Echeveste. "Teachers’ Proposals on Gender Bias on AI" – Gender, Work & Organization (Wiley) *(en revisión)*
+- **2026** – Echeveste y Brassesco. "Pensar críticamente la inteligencia artificial en la escuela" – EDUTEC *(aceptado)*
 - **2024** – Brassesco y Schapachnik. "Abstracción en psicología y ciencias de la computación" – Acta Psiquiátrica y Psicológica de América Latina
 
-**Actas de conferencias (5 trabajos entre 2023-2025):**
-- JAIIO (SADIO), JADICC
+**Ponencias y paneles en jornadas y congresos:**
+- **2026** – Expositora en Mesa Panel: "Sistemas de inteligencia artificial generativa y educación formal. Tensiones, transformaciones y permanencias en el trabajo docente" – VI Jornadas de Tecnologías Digitales, Capitalismo y Sociedad (e-TCS, CCTS-UMAI, CONICET)
+- **2026** – Asistente – Jornadas Argentinas de Didáctica de las Ciencias de la Computación (JADICC 2026 – FCyT-UADER)
+- **2023–2025** – Actas de conferencias (5 trabajos): JAIIO (SADIO), JADICC
+
+### Evaluación científica
+
+- **2026** – Evaluadora de trabajos científicos – Jornadas Argentinas de Didáctica de las Ciencias de la Computación (JADICC 2026 – FCyT-UADER)
 
 ### Proyectos de investigación
 
-- **2025** – UNIPE – IA Generativa en el Profesorado de Informática (integrante)
+- **2025 – 2026** – UNIPE – Inteligencia Artificial Generativa: Mapeo de evidencias sobre prácticas educativas en el Profesorado de Informática UNIPE (integrante)
 - **2025** – Proyecto FORMAR – Prácticas educativas y alfabetización crítica (integrante)
-- **2018-2023** – UBACyT – Didáctica escolar de las Cs de la Computación (integrante)
+- **2018 – 2023** – UBACyT – Didáctica escolar de las Cs de la Computación (integrante)
 
 ### Estancias de investigación
 
@@ -178,7 +189,7 @@ Director: Nicolás D'Ippolito
 
 ### Becas y distinciones
 
-- **2025** – Beca de Investigación de finalización de posgrado – UNIPE
+- **2025 – 2026** – Beca de Investigación de finalización de doctorado – UNIPE
 
 ### Idiomas
 
@@ -229,4 +240,4 @@ Software libre y accesible: [https://gdeldago.github.io/zamba/zamba.html](https:
 
 
 **María Virginia Brassesco**
-27 de Mayo de 2026
+16 de Noviembre de 2026
